@@ -1,0 +1,5 @@
+We are looking for a Python Backend Developer with 2+ years of experience.
+Must have strong knowledge of Django or FastAPI and PostgreSQL.
+Experience with Docker, AWS, and REST API design is required.
+Knowledge of Redis caching and message queues is a plus.
+Must be comfortable with Git, unit testing, and Agile workflows.

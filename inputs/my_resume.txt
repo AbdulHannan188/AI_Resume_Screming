@@ -1,0 +1,6 @@
+Python developer with 3 years of experience building web applications.
+Skilled in Django, Flask, FastAPI, PostgreSQL, Redis, and Docker.
+Built REST APIs and microservices deployed on AWS.
+Experience with machine learning using scikit-learn, pandas, and numpy.
+Familiar with CI/CD pipelines using GitHub Actions and Jenkins.
+BSc Computer Science. Strong problem-solving skills and team player.
